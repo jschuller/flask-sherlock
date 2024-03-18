@@ -1,4 +1,11 @@
 [{
+    "title": "The Ghost Writer",
+    "genre": ["crime", "drama", "mystery"],
+    "year": 2010,
+    "rating": 7.2,
+    "director": ["Roman Polański"],
+    "stars": ["Ewan McGregor", "Pierce Brosnan", "Olivia Williams"]
+}, {
     "title": "Groundhog Day",
     "genre": ["comedy", "fantasy", "romance"],
     "year": 1993,
