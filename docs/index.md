@@ -1,6 +1,6 @@
 ## Sherlock
 
-[webpage](https://ldynia.github.io/flask-sherlock/)
+[webpage](https://jschuller.github.io/flask-sherlock/)
 
 Sherlock is the best movie recommendation engine ever created. Isn't it Dr. [Jekyll](https://jekyllrb.com/)? More advanced references please look up how [Jekyll docs](https://github.com/jekyll/jekyll/tree/master/docs) are structured.
 
